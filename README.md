@@ -1,15 +1,12 @@
-### Hi there 👋
+ ALANA JULIA DA SILVA FERREIRA SANTOS   
 
-<!--
-**Laninhxxr/laninhxxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: cuidadora de criancas
-- 🌱 I’m currently learning: No alura
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 cuidadora de criancas
+- 🌱  No alura
+- 👯 :javascript
+- 🤔 I’m looking for help 
+- 💬 Ask me about :
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
